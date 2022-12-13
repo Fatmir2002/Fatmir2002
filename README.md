@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity Game Development 
 - 🌱 I’m currently learning Unity Game Development 
 - 💞️ I’m looking to collaborate on Unity projects
-- 📫 How to reach me you can reach me wia email 
+- 📫 You can reach me via email 
 - Email (fato577@outlook.com,fmujanovic26@gmail.com)
 - 
 
